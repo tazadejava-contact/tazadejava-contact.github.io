@@ -6,7 +6,7 @@ export default function Home() {
       <div className="relative w-[30%] pb-16">
         <Image
             className="relative rounded-full w-full h-auto"
-            src={"/tazadejava-contact.github.io/icon.png"}
+            src={"/icon.png"}
             width={0}
             height={0}
             sizes="100vw"
@@ -16,7 +16,7 @@ export default function Home() {
       <div className="font-bold text-5xl pb-8 text-center">
         Budget Buddy
       </div>
-      <div className="itali text-xl pb-8 text-center">
+      <div className="italic text-xl pb-8 text-center">
         Thanks for your support!
       </div>
       <div className="text-xl text-center">
